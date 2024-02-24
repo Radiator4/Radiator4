@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Radiator4
 - 👀 I’m interested in Programming and Space travel
 - 🌱 I’m currently learning PYTHON,HTML
-- 📫 How to reach me tejas.priyaarshi45@gmail.com
+- 📫 How to reach me tejas.priyarshi45@gmail.com
 - 😄 Pronouns: HIS/HIM
 - 
 <!---
